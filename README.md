@@ -4,7 +4,8 @@
 I am passionate about Computer Science and software engineering. I am currently looking for internships and opportunities to apply my knowledge in real-world projects.
 
 * 🌍 Based in Porto Alegre, Brazil
-* 🗣️ Native Portuguese, Fluent English, Learning Mandarin (你好).
+* 🗣️ Native Portuguese, Fluent English.
+* 🧑‍💻️ Web Programming and Public Relations at IDEjr.
 * 📫 **Contact:** [luisgustavofranca2006@gmail.com](mailto:luisgustavofranca2006@gmail.com)
 
 ### 🔗 Connect with me
