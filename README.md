@@ -5,7 +5,7 @@ I am passionate about Computer Science and software engineering. I am currently 
 
 * 🌍 Based in Porto Alegre, Brazil
 * 🗣️ Native Portuguese, Fluent English.
-* 🧑‍💻️ Web Programming and Public Relations at IDEjr.
+* 🧑‍💻️ Web Programming and Public Relations Member at IDEjr.
 * 📫 **Contact:** [luisgustavofranca2006@gmail.com](mailto:luisgustavofranca2006@gmail.com)
 
 ### 🔗 Connect with me
